@@ -24,6 +24,6 @@ A description of why “Pressure” is not a transmittable quantity which forms 
 A description of why Darcy’s equation of “Pressure losses” due to friction is first based on the wrong understanding of “Friction” and second not calculating any actual water loss in/ from pipes.
 
 ### Issue 7: Accuracy and Precision of Pressure Gauges
-A description of why ASME and EN standards of accuracy and precision for “Pressure Gauges” does not matter based on what “Gauges” actually measure and why certain design standards for the accuracy of the “Gauges” actually are not driving towards a precise reading of “Static Pressure”.
+A description of why ASME and EN standards of accuracy and precision for “Pressure Gauges” are unnecessary based on what “Gauges” actually measure and why certain design standards for the accuracy of the “Gauges” actually are not driving towards a precise reading of “Static Pressure”.
 
 
